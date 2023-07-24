@@ -1,0 +1,36 @@
+{
+  "contact": "@ThatOneCodeDev, https://discord.gg/VE9kexP4vj",
+  "templates": [
+    {
+      "name": "Komi-San",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/482987840456753154/1132737790438805574/Komi_TheEndIsNear.png"
+      ],
+      "x": 1246,
+      "y": 1158
+    },
+    {
+      "name": "Nagatoro",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131311443225083974/1132777397251481712/Nagatoro_Kladt_V333.png"
+      ],
+      "x": 297,
+      "y": 702
+      }
+  ],
+  "whitelist": [
+    {
+      "name": "osuplace",
+      "url": "https://osu.place/e/osuplace2023.json"
+    },
+    {
+    "name": "4waycollab",
+    "url": "http://ub8qbd.satdump.org/waitroom.json"
+    },
+    {
+    "name": "shocollab",
+    "url": "https://gitlab.com/catshilags/komi/-/raw/main/json"
+    }
+  ],
+  "blacklist": []
+}
