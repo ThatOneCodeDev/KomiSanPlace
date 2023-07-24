@@ -1,2 +1,2 @@
 # KomiSanPlace
-The Template for Komi
+The Template manager schematic for Komi
