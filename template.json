@@ -16,15 +16,7 @@
       ],
       "x": 797,
       "y": 702
-      },
-        {
-      "name": "topleft 4way collab",
-      "sources": [
-        "http://ub8qbd.satdump.org/placetemplates/topleftnew.png"
-      ],
-      "x": 736,
-      "y": 740
-    }
+      }
   ],
   "whitelist": [
     {
