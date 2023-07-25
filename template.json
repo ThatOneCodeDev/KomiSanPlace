@@ -24,7 +24,15 @@
       ],
       "x": 797,
       "y": 701
-      }
+      },
+    {
+      "name": "tadano",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1121678421836185631/1133341331322830918/tadanorplacelazerbeam_3.png"
+      ],
+      "x": 2599,
+      "y": 179
+    }
   ],
   "whitelist": [
     {
@@ -34,10 +42,6 @@
     {
       "name": "Mushoku Tensei/Tadano",
       "url": "https://raw.githubusercontent.com/seriousbubbles/mushokufitz2/main/mt.json"
-    },
-    {
-      "name": "Tadano",
-      "url": "https://raw.githubusercontent.com/hurbruh/tadano-r-place/main/tadanoplace23"
     },
     {
       "name": "shocollab",
