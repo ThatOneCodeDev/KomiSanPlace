@@ -28,12 +28,12 @@
       "url": "https://raw.githubusercontent.com/hurbruh/tadano-r-place/main/tadanoplace23"
     },
     {
-    "name": "4waycollab",
-    "url": "http://ub8qbd.satdump.org/waitroom.json"
+      "name": "Oshi no Ko/Senko collab",
+      "url": "http://ub8qbd.satdump.org/waitroom.json"
     },
     {
-    "name": "shocollab",
-    "url": "https://gitlab.com/catshilags/komi/-/raw/main/json"
+      "name": "shocollab",
+      "url": "https://gitlab.com/catshilags/komi/-/raw/main/json"
     }
   ],
   "blacklist": []
