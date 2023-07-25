@@ -1,5 +1,5 @@
 {
-  "contact": "@ThatOneCodeDev, https://discord.gg/VE9kexP4vj",
+  "contact": "@ThatOneCodeDev, @AttackRa1der. https://discord.gg/VE9kexP4vj",
   "templates": [
     {
       "name": "Komi-San",
@@ -22,6 +22,10 @@
     {
       "name": "osuplace",
       "url": "https://osu.place/e/osuplace2023.json"
+    },
+    {
+      "name": "Tadano",
+      "url": "https://raw.githubusercontent.com/hurbruh/tadano-r-place/main/tadanoplace23"
     },
     {
     "name": "4waycollab",
